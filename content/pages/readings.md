@@ -33,31 +33,252 @@ Marie de France. _Lais_. ([Download from Project Gutenberg](http://www.gutenberg
 Readings by Class Session
 -------------------------
 
-| SES # | READINGS |
-| --- | --- |
-| 1 | Course introduction |
-| 2 | _Iliad_, books 1-6 |
-| 3 | _Iliad_, books 7-12 |
-| 4 | _Iliad_, books 13-18 |
-| 5 | _Iliad_, books 19-24 |
-| 6 | _Odyssey_, books 1-6 |
-| 7 | _Odyssey_, books 7-12 |
-| 8 | _Odyssey_, books 1-12 |
-| 9 | _Odyssey_, books 13-18 |
-| 10 | _Odyssey_, books 19-24 |
-| 11 | _Aeneid_, books 1-4 |
-| 12 | _Aeneid_, books 5-8 |
-| 13 | _Aeneid_, books 9-12 |
-| 14 | _Inferno_, cantos 1-12 |
-| 15 | _Inferno_, cantos 13-23 |
-| 16 | _Inferno_, cantos 24-34 |
-| 17 | Aeschylus, _Agamemnon_ |
-| 18 | Aeschylus, _Libation Bearers_ |
-| 19 | Aeschylus, _Eumenides_ |
-| 20 | _Njáls saga_, chapters 1-77 |
-| 21 | _Njáls saga_, chapters 78-133 |
-| 22 | _Njáls saga_, chapters 134-end |
-| 23 | _Beowulf_, lines 1-1650 |
-| 24 | _Beowulf_, lines 1651-end |
-| 25 | de France, Marie. _Lais_, pp. 28-125 |
-| 26 | _Lais_, pp. 126-233
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Iliad_, books 1-6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Iliad_, books 7-12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Iliad_, books 13-18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Iliad_, books 19-24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Odyssey_, books 1-6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Odyssey_, books 7-12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Odyssey_, books 1-12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Odyssey_, books 13-18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Odyssey_, books 19-24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Aeneid_, books 1-4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Aeneid_, books 5-8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Aeneid_, books 9-12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Inferno_, cantos 1-12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Inferno_, cantos 13-23
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Inferno_, cantos 24-34
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Aeschylus, _Agamemnon_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Aeschylus, _Libation Bearers_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Aeschylus, _Eumenides_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_Njáls saga_, chapters 1-77
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Njáls saga_, chapters 78-133
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_Njáls saga_, chapters 134-end
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_Beowulf_, lines 1-1650
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Beowulf_, lines 1651-end
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+de France, Marie. _Lais_, pp. 28-125
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_Lais_, pp. 126-233
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

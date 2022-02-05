@@ -66,31 +66,333 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Course introduction | &nbsp; |
-| 2 | _Iliad_, books 1-6 | First summary due 1 day later |
-| 3 | _Iliad_, books 7-12 | Close reading exercise due 2 days later |
-| 4 | _Iliad_, books 13-18 | &nbsp; |
-| 5 | _Iliad_, books 19-24 | First summary revision due 4 days later |
-| 6 | _Odyssey_, books 1-6 | &nbsp; |
-| 7 | _Odyssey_, books 7-12 | Close reading exercise revision due 2 days later |
-| 8 | _Odyssey_, books 1-12 (discussion) | &nbsp; |
-| 9 | _Odyssey_, books 13-18 | &nbsp; |
-| 10 | _Odyssey_, books 19-24 | &nbsp; |
-| 11 | _Aeneid_, books 1-4 | Second summary due 2 days later |
-| 12 | _Aeneid_, books 5-8 | &nbsp; |
-| 13 | _Aeneid_, books 9-12 | &nbsp; |
-| 14 | _Inferno_, cantos 1-12 | Mandatory essay conferences due 2 days later |
-| 15 | _Inferno_, cantos 13-23 | &nbsp; |
-| 16 | _Inferno_, cantos 24-34 | Third summary due 2 days later |
-| 17 | Aeschylus, _Agamemnon_ | &nbsp; |
-| 18 | Aeschylus, _Libation Bearers_ | Homer/Virgil essay due 2 days later |
-| 19 | Aeschylus, _Eumenides_ | &nbsp; |
-| 20 | _Njáls saga_, chapters 1-77 | &nbsp; |
-| 21 | _Njáls saga_, chapters 78-133 | &nbsp; |
-| 22 | _Njáls saga_, chapters 134-end | &nbsp; |
-| 23 | _Beowulf_, lines 1-1650 | &nbsp; |
-| 24 | _Beowulf_, lines 1651-end | Revised Homer/Virgil essay due 2 days later |
-| 25 | de France, Marie. _Lais_, pp. 28-125 | &nbsp; |
-| 26 | _Lais_, pp. 126-233 | Class party 2 days later
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Iliad_, books 1-6
+{{< tdclose >}}
+{{< tdopen >}}
+First summary due 1 day later
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Iliad_, books 7-12
+{{< tdclose >}}
+{{< tdopen >}}
+Close reading exercise due 2 days later
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Iliad_, books 13-18
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Iliad_, books 19-24
+{{< tdclose >}}
+{{< tdopen >}}
+First summary revision due 4 days later
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Odyssey_, books 1-6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Odyssey_, books 7-12
+{{< tdclose >}}
+{{< tdopen >}}
+Close reading exercise revision due 2 days later
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Odyssey_, books 1-12 (discussion)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Odyssey_, books 13-18
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Odyssey_, books 19-24
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Aeneid_, books 1-4
+{{< tdclose >}}
+{{< tdopen >}}
+Second summary due 2 days later
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Aeneid_, books 5-8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Aeneid_, books 9-12
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Inferno_, cantos 1-12
+{{< tdclose >}}
+{{< tdopen >}}
+Mandatory essay conferences due 2 days later
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Inferno_, cantos 13-23
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Inferno_, cantos 24-34
+{{< tdclose >}}
+{{< tdopen >}}
+Third summary due 2 days later
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Aeschylus, _Agamemnon_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Aeschylus, _Libation Bearers_
+{{< tdclose >}}
+{{< tdopen >}}
+Homer/Virgil essay due 2 days later
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Aeschylus, _Eumenides_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_Njáls saga_, chapters 1-77
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Njáls saga_, chapters 78-133
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_Njáls saga_, chapters 134-end
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_Beowulf_, lines 1-1650
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Beowulf_, lines 1651-end
+{{< tdclose >}}
+{{< tdopen >}}
+Revised Homer/Virgil essay due 2 days later
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+de France, Marie. _Lais_, pp. 28-125
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_Lais_, pp. 126-233
+{{< tdclose >}}
+{{< tdopen >}}
+Class party 2 days later
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
